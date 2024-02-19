@@ -1,5 +1,5 @@
 # JanAI-TTS
-A simple TTS program that connects to the API provided by JanAI Client
+A simple TTS program that connects to the API provided by [JanAI Client](https://github.com/janhq/jan)
 
 ### Dependencies
 For pytorch & TTS compability, pytorch 2.1.0 seemed to work fine. https://pytorch.org/get-started/previous-versions/
