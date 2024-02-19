@@ -21,3 +21,5 @@ pip install TTS --user
 1) Enable local api from Jan by clicking the [<>] icon on the bottom left, selecting the right model and by pressing start server
 2) Start ai_converse.py
 3) To use the TTS, start up tts_receive_ai.py as well (optional)
+
+NOTE: If you have something else running on port 5000 you might want to change it to something else!
